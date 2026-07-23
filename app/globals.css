@@ -1,0 +1,28 @@
+body {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 1rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+}
+
+img {
+  max-width: 100%;
+}
+
+pre {
+  background: #f0f0f0;
+  padding: 0.5rem;
+  overflow-x: auto;
+}
+
+nav a {
+  margin-right: 1rem;
+}
+
+footer {
+  margin-top: 3rem;
+  border-top: 1px solid #ccc;
+  padding-top: 1rem;
+  font-size: 0.9rem;
+}
