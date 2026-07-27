@@ -10,12 +10,12 @@ export default function Home() {
       <p>
         Tunix is a small Unix-like operating system for x86_64, built from
         scratch: a custom bootloader, a custom kernel, a full GNU userland,
-        and a Wayland desktop.
+        and a XFCE desktop.
       </p>
       <p>
         <img
           src="/screenshot.png"
-          alt="Tunix running Weston with weston-terminal"
+          alt="Tunix running XFCE with Xorg"
         />
       </p>
 
@@ -35,8 +35,7 @@ export default function Home() {
           sockets — enough for <code>git clone https://...</code>
         </li>
         <li>
-          Wayland desktop: Weston on a native DRM driver with GL rendering,
-          keyboard and mouse
+          XFCE desktop: XFCE running with Xorg
         </li>
         <li>
           Self-hosting: gcc, binutils, and make run inside Tunix
