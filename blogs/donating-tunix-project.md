@@ -22,55 +22,54 @@ Your support directly helps with:
     * Improving documentation and developer tooling
     * Keeping Tunix independent and community-driven
     
-    Even a small donation helps. If you like the idea of an independent operating system built from the ground up, supporting Tunix is a way to help make that idea real.
+Even a small donation helps. If you like the idea of an independent operating system built from the ground up, supporting Tunix is a way to help make that idea real.
     
-    ## Donate with Cryptocurrency
+## Donate with Cryptocurrency
     
-    ### Bitcoin
+### Bitcoin
     
-    ![Bitcoin QR Code](blog/donate/btc.png)
+![Bitcoin QR Code](blog/donate/btc.png)
     
-    **Address:**
+**Address:**
     
-    ```text
-    bc1qgatzkqemcpalwhfq8g87nlnrrau4umga47j05q
-    ```
+```text
+bc1qgatzkqemcpalwhfq8g87nlnrrau4umga47j05q
+```
     
-    ### Ethereum
-    
-    ![Ethereum QR Code](blog/donate/eth.png)
-    
-    **Address:**
-    
-    ```text
-    0xcf231f3799389B271357e8a7656404D4c9598882
-    ```
-    
-    ### Solana
-    
-    ![Solana QR Code](blog/donate/sol.png)
-    
-    **Address:**
-    
-    ```text
-    FGFsQFYsrr41MeLnyk9m7Erwy1rB85mJu4mgkTLcaqZr
-    ```
-    
-    ### BNB
-    
-    ![BNB QR Code](blog/donate/bnb.png)
-    
-    **Address:**
-    
-    ```text
-    0xcf231f3799389B271357e8a7656404D4c9598882
-    ```
-    
-    > **Important:** Always verify the address before sending a transaction. Cryptocurrency transactions are generally irreversible.
-    
-    ## Thank You
-    
-    Whether you contribute code, report bugs, test releases, or make a donation, every contribution helps Tunix grow.
-    
-    **Thank you for supporting independent software and the Tunix project.**
-    
+### Ethereum
+
+![Ethereum QR Code](blog/donate/eth.png)
+
+**Address:**
+
+```text
+0xcf231f3799389B271357e8a7656404D4c9598882
+```
+
+### Solana
+
+![Solana QR Code](blog/donate/sol.png)
+
+**Address:**
+
+```text
+FGFsQFYsrr41MeLnyk9m7Erwy1rB85mJu4mgkTLcaqZr
+```
+
+### BNB
+
+![BNB QR Code](blog/donate/bnb.png)
+
+**Address:**
+
+```text
+0xcf231f3799389B271357e8a7656404D4c9598882
+```
+
+> **Important:** Always verify the address before sending a transaction. Cryptocurrency transactions are generally irreversible.
+
+## Thank You
+
+Whether you contribute code, report bugs, test releases, or make a donation, every contribution helps Tunix grow.
+
+**Thank you for supporting independent software and the Tunix project.**
