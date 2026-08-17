@@ -28,7 +28,7 @@ Even a small donation helps. If you like the idea of an independent operating sy
     
 ### Bitcoin
     
-![Bitcoin QR Code](blog/donate/btc.png)
+![Bitcoin QR Code](/blog/donate/btc.png)
     
 **Address:**
     
@@ -38,7 +38,7 @@ bc1qgatzkqemcpalwhfq8g87nlnrrau4umga47j05q
     
 ### Ethereum
 
-![Ethereum QR Code](blog/donate/eth.png)
+![Ethereum QR Code](/blog/donate/eth.png)
 
 **Address:**
 
@@ -48,7 +48,7 @@ bc1qgatzkqemcpalwhfq8g87nlnrrau4umga47j05q
 
 ### Solana
 
-![Solana QR Code](blog/donate/sol.png)
+![Solana QR Code](/blog/donate/sol.png)
 
 **Address:**
 
@@ -58,7 +58,7 @@ FGFsQFYsrr41MeLnyk9m7Erwy1rB85mJu4mgkTLcaqZr
 
 ### BNB
 
-![BNB QR Code](blog/donate/bnb.png)
+![BNB QR Code](/blog/donate/bnb.png)
 
 **Address:**
 
